@@ -1,5 +1,5 @@
 # Pokedex
-<<<<<<< HEAD
+
 Pokedex usando PokeApi no Front-end
 
 ## 📱 Funcionalidades: 
