@@ -1,4 +1,5 @@
 # Pokedex
+<<<<<<< HEAD
 Pokedex usando PokeApi no Front-end
 
 ## 📱 Funcionalidades: 
@@ -22,3 +23,7 @@ Pokedex usando PokeApi no Front-end
 - Package Http-server
 - Css
 - HTML
+=======
+jennimachado.surge.sh
+Pokedex using PokeApi in Front-end
+>>>>>>> 8ffff15471f2d3182b6741ed850d2ad0184a9837
