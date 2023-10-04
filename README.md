@@ -23,5 +23,6 @@ Pokedex usando PokeApi no Front-end
 - Package Http-server
 - Css
 - HTML
+- JavaScript
 
 
