@@ -5,6 +5,8 @@ Pokedex usando PokeApi no Front-end
 ## 📱 Funcionalidades: 
 - Listagem dos Pokemons ate sua segunda geração
 - Listagem com páginação em Load More 
+- Integração com a PokeApi
+- Requisição por método GET
 
 ## 🤳 Demonstração:
 - Você pode clicar no link abaixo:
